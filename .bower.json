@@ -1,0 +1,25 @@
+{
+  "name": "model-elements",
+  "main": "model-elements.html",
+  "dependencies": {
+    "ui-elements": "namitos/ui-elements",
+    "socket.io-client": "socketio/socket.io-client"
+  },
+  "devDependencies": {
+    "web-component-tester": "^6.0.0"
+  },
+  "resolutions": {
+    "iron-resizable-behavior": "1 - 2",
+    "iron-selector": "1 - 2"
+  },
+  "homepage": "https://github.com/JustLogin/model-elements",
+  "_release": "9be644353e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9be644353e08304bca0697a155b656408f3bc518"
+  },
+  "_source": "https://github.com/JustLogin/model-elements.git",
+  "_target": "*",
+  "_originalSource": "JustLogin/model-elements"
+}
